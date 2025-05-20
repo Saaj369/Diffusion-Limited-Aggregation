@@ -25,7 +25,11 @@ This project demonstrates **Diffusion-Limited Aggregation (DLA)** of particles u
 ## Videos
 
 https://github.com/user-attachments/assets/200a5e62-8c00-464c-95e4-47d0dc17717c
+
+
 https://github.com/user-attachments/assets/ab750fc8-9058-4391-8f72-5f61ed965f21
+
+
 https://github.com/user-attachments/assets/4e4d3391-a5d9-4aac-9d5c-d045e5b05329
 
 ## Authors
