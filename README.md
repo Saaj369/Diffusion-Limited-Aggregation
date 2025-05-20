@@ -22,6 +22,11 @@ This project demonstrates **Diffusion-Limited Aggregation (DLA)** of particles u
 - **Diffusion-Limited Aggregation (DLA)** to simulate aggregation of particles.
 - **Fractal growth** observed in the final structures.
   
+## Videos
+<video src="simulation_videos/agg.mp4" controls width="500"></video>
+<video src="simulation_videos/1000P.mp4" controls width="500"></video>
+<video src="simulation_videos/5000P.mp4" controls width="500"></video>
+
 ## Authors
   - Hridhay Alat
   - Sajan Daheriya
